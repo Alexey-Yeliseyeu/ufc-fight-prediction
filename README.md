@@ -6,6 +6,10 @@ A machine learning project using historical UFC fighter statistics to predict fi
 
 The goal of this project was to investigate whether fighter statistics could be used to predict the winner of a UFC fight. The project involved cleaning and exploring fight data, selecting relevant features, training classification models, tuning model parameters, and comparing their performance.
 
+## Dataset
+
+This project uses the **UFC Complete Dataset (All Events 1996–2024)** created by MaksBasher on Kaggle. The dataset contains historical UFC fight results and fighter statistics and is licensed under **CC0: Public Domain**.
+
 ## Methods
 
 - Data cleaning and preprocessing with pandas
